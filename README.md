@@ -13,14 +13,20 @@ Gosto de resolver problemas, criar projetos e aprender novas tecnologias constan
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+<h2>🚀 Principais Tecnologias</h2>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
 
-- 💻 Lógica de Programação   
-- 🌐 HTML5 & CSS3  
-- 🗄️ Banco de Dados (SQL)  
-- ⚙️ Algoritmos  
-- 🧠 Programação Orientada a Objetos  
-
+<h2 align="left">🌐 Conecte-se comigo</h2>
+  <a href = "mailto:manoelpedrohenrique1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
 
 ## 🎯 Objetivos
 
@@ -32,12 +38,7 @@ Gosto de resolver problemas, criar projetos e aprender novas tecnologias constan
 ---
 ⭐️ Desenvolvido por Pedro
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="p-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="p-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="p-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
+
   ##
  
 <div> 

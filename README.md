@@ -35,7 +35,7 @@ Gosto de resolver problemas, criar projetos e aprender novas tecnologias constan
 
 ## 📊 Estatísticas do GitHub
 
-<!-- Substitua SEU_USUARIO pelo seu nome de usuário do GitHub -->
+
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pedrokyx&show_icons=true&theme=tokyonight)
 

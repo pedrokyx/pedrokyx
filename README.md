@@ -1,10 +1,5 @@
 # 👋 Olá, eu sou o Pedro!
 
-🎓 Estudante de Informática  
-💻 Apaixonado por tecnologia e programação  
-🚀 Sempre aprendendo e criando novos projetos  
-
----
 
 ## 👨‍💻 Sobre mim
 
@@ -20,17 +15,6 @@ Gosto de resolver problemas, criar projetos e aprender novas tecnologias constan
 - 🗄️ Banco de Dados (SQL)  
 - ⚙️ Algoritmos  
 - 🧠 Programação Orientada a Objetos  
-
----
-
-## 📚 Atualmente Estudando
-
-- Estrutura de Dados  
-- Desenvolvimento Web  
-- Fundamentos de Backend  
-- Boas Práticas de Programação  
-
----
 
 
 ## 🎯 Objetivos
@@ -49,10 +33,8 @@ Gosto de resolver problemas, criar projetos e aprender novas tecnologias constan
 <div style="display: inline_block"><br>
   <img align="center" alt="p-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="p-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="p-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="p-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="p-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="p-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="p-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   

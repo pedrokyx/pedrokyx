@@ -15,8 +15,7 @@ Gosto de resolver problemas, criar projetos e aprender novas tecnologias constan
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- 💻 Lógica de Programação  
-- 🐍 Python  
+- 💻 Lógica de Programação   
 - 🌐 HTML5 & CSS3  
 - 🗄️ Banco de Dados (SQL)  
 - ⚙️ Algoritmos  

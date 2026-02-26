@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Pedro!
+
 
 <h2>📊 Stats</h2>
 <div align="center">
